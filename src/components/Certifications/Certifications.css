@@ -1,0 +1,48 @@
+.CertificationsGrid {
+    display: flex;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 1rem;
+    justify-content: center;
+    padding-top:50px;
+}
+
+.main-title h2 {
+    color: white;
+    font-size: 55px;
+    text-align: center;
+    font-family: Touche;
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+
+.CertificationsGrid .container {
+    max-width: 100%;
+  }
+  
+  .CertificationsGrid .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* This centers the items on the line */
+    gap: 20px; /* Adds space between the images */
+  }
+  
+  .certificationsView {
+    flex: 1 1 200px; /* This ensures each view starts at 200px but can grow */
+  }
+  
+  .certificationsView ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+  }
+  
+  .certificationsView li {
+    margin: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1); /* Optional: adds shadow for better visibility */
+  }
+  
+  .certificationImage img {
+    width: 100%;
+    height: auto;
+  }

@@ -1,0 +1,32 @@
+.MuiBox-root.MuiBox-root-78 {
+  display: inline-grid;
+  width: 100%;
+  text-align: center;
+  padding: 80px 0;
+  margin: 0 auto;
+}
+
+.MuiBox-root.MuiBox-root-80 {
+  display: inline-grid;
+  text-align: center;
+}
+
+.MuiCircularProgress-root.MuiCircularProgress-colorPrimary.MuiCircularProgress-determinate {
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+.MuiGrid-grid-xs-4 {
+  display: inline-table;
+}
+
+.skillbar-title span {
+  /* font-family: 'Touche', sans-serif;
+  font-weight: lighter; */
+  font-size: 12px;
+  padding: 0 14px !important;
+}
+
+/* .skillbar-title {
+  background-color: #0A1931;
+} */

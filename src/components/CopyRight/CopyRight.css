@@ -1,0 +1,11 @@
+@import url(//db.onlinewebfonts.com/c/6ff35b8857ed1d3bf6a3cc93164ff962?family=Touche);
+
+@font-face {
+    font-family: "Touche";
+    src: url("//db.onlinewebfonts.com/t/6ff35b8857ed1d3bf6a3cc93164ff962.eot");
+    src: url("//db.onlinewebfonts.com/t/6ff35b8857ed1d3bf6a3cc93164ff962.eot?#iefix") format("embedded-opentype"),
+        url("//db.onlinewebfonts.com/t/6ff35b8857ed1d3bf6a3cc93164ff962.woff2") format("woff2"),
+        url("//db.onlinewebfonts.com/t/6ff35b8857ed1d3bf6a3cc93164ff962.woff") format("woff"),
+        url("//db.onlinewebfonts.com/t/6ff35b8857ed1d3bf6a3cc93164ff962.ttf") format("truetype"),
+        url("//db.onlinewebfonts.com/t/6ff35b8857ed1d3bf6a3cc93164ff962.svg#Touche") format("svg");
+}

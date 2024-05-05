@@ -1,0 +1,53 @@
+@import url(//db.onlinewebfonts.com/c/6ff35b8857ed1d3bf6a3cc93164ff962?family=Touche);
+
+@font-face {
+    font-family: "Touche";
+    src: url("//db.onlinewebfonts.com/t/6ff35b8857ed1d3bf6a3cc93164ff962.eot");
+    src: url("//db.onlinewebfonts.com/t/6ff35b8857ed1d3bf6a3cc93164ff962.eot?#iefix") format("embedded-opentype"),
+        url("//db.onlinewebfonts.com/t/6ff35b8857ed1d3bf6a3cc93164ff962.woff2") format("woff2"),
+        url("//db.onlinewebfonts.com/t/6ff35b8857ed1d3bf6a3cc93164ff962.woff") format("woff"),
+        url("//db.onlinewebfonts.com/t/6ff35b8857ed1d3bf6a3cc93164ff962.ttf") format("truetype"),
+        url("//db.onlinewebfonts.com/t/6ff35b8857ed1d3bf6a3cc93164ff962.svg#Touche") format("svg");
+}
+
+.ProfileBackground {
+    background-color: #282C34;
+    flex-direction: row;
+    display: flex;
+    background-repeat: no-repeat;
+}
+.ProfileBackground {
+    background-color: #282C34;
+    flex-direction: row;
+    display: flex;
+    background-repeat: no-repeat;
+}
+
+.container-fluid {
+    width: 100%;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.ButtonClass:hover {
+    color: '#F9004D';
+}
+
+/* .css-1fx9x8r {
+    align-items: center;
+    display: flex;
+  } */
+
+.lottie-svg-class {
+    width: 600px !important;
+}
+
+@media only screen and (max-width: 600px) {
+
+.lottie-svg-class {
+    width: 250px !important;
+}
+}
